@@ -1,5 +1,7 @@
 <?php
 
+echo "HOLA";
+
 // Configuración de conexión
 $database = "bludb";
 $hostname = "c7702170-2522-4ac8-821f-d35f5032d9cf.c3n41cmd0nqnrk39u98g.private.databases.appdomain.cloud";
